@@ -9,7 +9,15 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+Who: Kaggle, an internet based domain which is based off of data science competitions provided the data. The individual who updated the dataset two years ago was Seanny, a student at the University of Maryland. 
+
+What: The data is based off of credit card information from applicants
+
+When: The data was collected over the years hisorically.
+
+Why: The data set is for public purpose as it is based on a public domain for everyone to see. The purpose is to see the future of important outcomes such as credit card borrowing on credit card applicants.
+
+How: The data was collected historically based on personal information of credit card applicants.
 
 ## Describe your dataset in about 150-200 words
 
@@ -19,7 +27,7 @@ The following data set was obtained through a public domain. It uses data and pe
 
 - Alexis Oduro-Domfe: I am ambidextrous
 - Abdullah Al-Kaf: I am left-handed!
-- Benjamin Li: I am right-handed!
+- Benjamin Li: I enjoy competition. 
 
 ## Images
 
