@@ -18,7 +18,7 @@ The following data set was obtained through a public domain. It uses data and pe
 ## Team Members
 
 - Alexis Oduro-Domfe: I am ambidextrous
-- Person 2: one sentence about you!
+- Abdullah Al-Kaf: I am left-handed!
 - Person 3: one sentence about you!
 
 ## Images
