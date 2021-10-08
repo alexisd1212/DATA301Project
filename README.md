@@ -11,11 +11,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 Who: Kaggle, an internet based domain which is based off of data science competitions provided the data. The individual who updated the dataset two years ago was Seanny, a student at the University of Maryland. 
 
-What: The data is based off of credit card information from applicants
+What: The data is based off of credit card information from applicants which leads to credit score data. 
 
-When: The data was collected over the years hisorically.
+When: The data was collected over the years of 2019 to the present years.
 
-Why: The data set is for public purpose as it is based on a public domain for everyone to see. The purpose is to see the future of important outcomes such as credit card borrowing on credit card applicants.
+Why: The data set is for public purpose as it is based on a public domain for everyone to see. The purpose is to see the future of important outcomes such as credit card borrowing on credit card applicants. It is also for learning as if we can predict future outcomes, it may be beneficial for credit applicants to know the statistics, but perhaps most people want to see the data for themselves when they get their own credit card.
 
 How: The data was collected historically based on personal information of credit card applicants.
 
