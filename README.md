@@ -19,7 +19,7 @@ The following data set was obtained through a public domain. It uses data and pe
 
 - Alexis Oduro-Domfe: I am ambidextrous
 - Abdullah Al-Kaf: I am left-handed!
-- Person 3: one sentence about you!
+- Benjamin Li: I am right-handed!
 
 ## Images
 
