@@ -9,6 +9,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
+The following data set was obtained through a public domain. It uses data and personal information of credit card applicants to make predictions regarding future credit card eligibility, possible future defaults and credit card borrowings.  Credit score cards are a common risk control method in the financial industry and using a model like this can be helpful for banks as they are able to decide whether to issue a credit card to an applicant. It can also be useful for public use in terms of being used it a reference for their own financial habits (in order to maximize their financial literacy for the future). Because this data set considers many factors for credit card applicants, it can help predict the probability of each feature from different angles or collectively, instead of just a simple linear predictive model which makes it even more robust and provides good transparency (making it easier to provide customers and future applicants with reason for rejection or acceptance). In this project we're hoping to know more about the world of credit scores using data analysis.
+
+
+## Describe your dataset in about 150-200 words
+
 Who: Kaggle, an internet based domain which is based off of data science competitions provided the data. The individual who updated the dataset two years ago was Seanny, a student at the University of Maryland. 
 
 What: The data is based off of credit card information from applicants which leads to credit score data. 
@@ -19,9 +24,6 @@ Why: The data set is for public purpose as it is based on a public domain for ev
 
 How: The data was collected historically based on personal information of credit card applicants.
 
-## Describe your dataset in about 150-200 words
-
-The following data set was obtained through a public domain. It uses data and personal information of credit card applicants to make predictions regarding future credit card eligibility, possible future defaults and credit card borrowings.  Credit score cards are a common risk control method in the financial industry and using a model like this can be helpful for banks as they are able to decide whether to issue a credit card to an applicant. It can also be useful for public use in terms of being used it a reference for their own financial habits (in order to maximize their financial literacy for the future). Because this data set considers many factors for credit card applicants, it can help predict the probability of each feature from different angles or collectively, instead of just a simple linear predictive model which makes it even more robust and provides good transparency (making it easier to provide customers and future applicants with reason for rejection or acceptance).
 
 ## Team Members
 
