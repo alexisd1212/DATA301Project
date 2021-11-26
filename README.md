@@ -29,7 +29,7 @@ How: The data was collected historically based on personal information of credit
 
 - Alexis Oduro-Domfe: I am ambidextrous
 - Abdullah Al-Kaf: I am left-handed!
-- Benjamin Li: I enjoy competition. 
+- Benjamin: I enjoy watching movies. 
 
 ## Images
 
